@@ -7,4 +7,6 @@
     <dd>Documentação Python para consultar as opções de interpulação de strings, que ele oferece</dd>
     <dt><a href="https://docs.python.org/3/library/functions.html">funções embutidas pyhton</a></dt>
     <dd>Parte da biblioteca do python que mostrar as funções que vem imbutidas na linguagem não sendo necessário fazer a importação para usa-las.</dd>
+    <dt><a href="https://stackoverflow.com/questions/13866926/is-there-a-list-of-pytz-timezones">Lista de TIME_ZONE python</a></dt>
+    <dd>para colocar na variavel TIME_ZONE =, dentro de settings.py do projeto Django</dd>
 </dl>
