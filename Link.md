@@ -11,4 +11,6 @@
     <dd>para colocar na variavel TIME_ZONE =, dentro de settings.py do projeto Django</dd>
     <dt><a href="https://docs.djangoproject.com/pt-br/2.2/misc/design-philosophies/">Filosofia do Django segundo a documentação oficial</a></dt>
     <dd>Caso queira saber mais sobre filosofia do Django:</dd>
+    <dt><a href="https://docs.djangoproject.com/pt-br/2.2/howto/static-files/"> Documentação Django: Gerenciando Arquivos Estáticos</a></dt>
+    <dd>Gerenciar html, css, JavaScript em projeto Django</dd>
 </dl>
