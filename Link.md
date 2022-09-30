@@ -13,4 +13,6 @@
     <dd>Caso queira saber mais sobre filosofia do Django:</dd>
     <dt><a href="https://docs.djangoproject.com/pt-br/2.2/howto/static-files/"> Documentação Django: Gerenciando Arquivos Estáticos</a></dt>
     <dd>Gerenciar html, css, JavaScript em projeto Django</dd>
+    <dt><a href="https://www.figma.com/files/drafts?fuid=1088548239907474899">Figma</a><dt>
+    <dd>é uma ferramenta de prototipagem de interfaces</dd>
 </dl>
